@@ -6,15 +6,7 @@ The ultimate goal is to achieve automate merging tables with complicated table r
 Raw data are Child Parent relationship table and metadata
 
 ## Sample relationship diagram
-key	Child	Parent
-1	   A	   B
-2	   A   	 B
-3	   A	   C
-4	   B	   D
-5	   B	   D
-6	   X	   Y
-7	   D	   E
-8	   D	   E
+Is a Child-Parent relationship table included in the package, in excel format
 
 ## Idea
 using the pandas data operation and merge(equivalent to SQL join) will create a nice data map for further analysis
